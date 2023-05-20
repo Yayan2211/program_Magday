@@ -1,0 +1,8 @@
+C:\Users\Christ21\source\repos\ProgramMagday\bin\Debug\ProgramMagday.exe.config
+C:\Users\Christ21\source\repos\ProgramMagday\bin\Debug\ProgramMagday.exe
+C:\Users\Christ21\source\repos\ProgramMagday\bin\Debug\ProgramMagday.pdb
+C:\Users\Christ21\source\repos\ProgramMagday\obj\Debug\ProgramMagday.csproj.AssemblyReference.cache
+C:\Users\Christ21\source\repos\ProgramMagday\obj\Debug\ProgramMagday.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christ21\source\repos\ProgramMagday\obj\Debug\ProgramMagday.csproj.CoreCompileInputs.cache
+C:\Users\Christ21\source\repos\ProgramMagday\obj\Debug\ProgramMagday.exe
+C:\Users\Christ21\source\repos\ProgramMagday\obj\Debug\ProgramMagday.pdb
